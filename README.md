@@ -1,6 +1,11 @@
 # 💫 About Me
-I'm a Full Stack Developer  
-Currently learning Headless CMS
+I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies.
+I enjoy building robust web applications, APIs, and scalable systems with modern tech stacks.
+Currently diving deeper into Headless CMS platforms like Payload and Strapi to enhance content flexibility and developer experience.
+I have hands-on experience in developing RESTful and GraphQL APIs, integrating third-party services, and working with modern deployment workflows.
+I take pride in writing clean, maintainable code and following industry best practices.
+When I'm not coding, I'm probably exploring new frameworks, contributing to open source, or optimizing builds for performance.
+I'm always open to collaboration, learning, and contributing to impactful projects.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshAgrawal)  
