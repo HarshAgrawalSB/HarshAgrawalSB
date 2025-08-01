@@ -1,11 +1,33 @@
 # 💫 About Me
 
-Hi there! I'm **Harsh Agrawal**, a passionate **Full Stack Developer** who enjoys crafting clean and scalable web applications.  
-I'm currently exploring Headless CMS platforms like **Payload** and **Strapi**, and diving deep into **PostgreSQL**, **Drizzle ORM**, and **Supabase**.
+Hi, I’m Harsh Agrawal — a Full Stack Developer with 2 years of experience building modern, scalable web applications. I specialize in JavaScript/TypeScript ecosystems, with a strong focus on crafting efficient backend services and intuitive frontend interfaces. My work revolves around React, Node.js, and cutting-edge tools like Supabase and Drizzle ORM, which I leverage to deliver performant, maintainable solutions.
 
-- 🔭 I’m currently working on: Full-stack apps using modern JS stacks, Payload CMS, Supabase & Drizzle ORM  
-- 🌱 I’m currently learning: Advanced Postgres, WebSockets, Serverless Architecture  
-- ⚡ Fun fact: I'm a keyboard shortcut ninja and VS Code extension hoarder
+
+🛠️ Technical Focus
+
+Full-Stack Development: Building end-to-end applications with React (Next.js), Node.js, and modern ORMs like Drizzle.
+
+Database Expertise: Designing and optimizing PostgreSQL workflows, including migrations, queries, and real-time data with Supabase.
+
+Headless CMS: Architecting content-driven applications using Payload CMS and Strapi for flexible, scalable backends.
+
+Performance & Optimization: Profiling React apps, reducing bundle sizes, and implementing efficient data-fetching strategies.
+
+📚 Continuous Learning
+
+I’m currently deepening my knowledge in:
+
+Advanced PostgreSQL: Query optimization, indexing strategies, and full-text search.
+
+Real-Time Systems: Implementing WebSockets for live updates and interactive features.
+
+Emerging Patterns: Exploring React Server Components, edge computing, and modular architecture.
+
+🚀 Beyond Code
+
+I obsess over keyboard shortcuts and developer tooling to streamline workflows.
+
+When not debugging, I contribute to open-source projects and document my learnings.
 
 ---
 
